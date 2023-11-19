@@ -1,20 +1,21 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmedbhd.visitor-badge" />
+<br/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Ben+Henda!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Tunisia 🇹🇳</h3>
+<h3 align="center">A passionate Mobile developer from Tunisia 🇹🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’ve just finished developing **a rental app**
+ 🔭 I’ve just finished developing **<a href="https://play.google.com/store/apps/details?id=com.squarex&hl=en&gl=US">a rental app</a>**
  
- 🌱 I’m currently learning **SwiftUI, Conpose, React Native**
+ 🌱 I’m currently learning **SwiftUI and React Native**
 
-💬 Ask me about **iOS, Andoi, The universe... or anything [here](https://github.com/ahmedbhd/ahmedbhd/issues)**
+💬 Ask me about **iOS, Android, The Universe... or anything**
 
  </div>
  
@@ -32,9 +33,22 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,xcode,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+<div align="start">
+
+
+[![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)](#)
+
+[![MacOS](https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white)](#)
+[![xCode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
+[![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)](#)
+[![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white)](#)
+[![Github](https://img.shields.io/badge/GitHub-100000?logo=github)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=Jira)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+
 </div>
 
 <br/>
@@ -43,30 +57,27 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ahmedbhd/ahmedbhd/output/github-contribution-grid-snake.svg" />
+
   <br/><br/><br/>
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">🔥 Stats 🔥</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+  [![GitHub Streak](https://github-readme-streak-stats-six-hazel.vercel.app?user=ahmedbhd&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+
+  ![ahmedbhd's Stats](https://github-readme-stats-git-master-ahmedbhds-projects.vercel.app/api?username=ahmedbhd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+  ![ahmedbhd's Top Languages](https://github-readme-stats-git-master-ahmedbhds-projects.vercel.app/api/top-langs/?username=ahmedbhd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&count_private=true)
+
 </div>
 
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
