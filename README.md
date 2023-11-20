@@ -68,11 +68,11 @@
 <br>
 <div align=center>
 
-  [![GitHub Streak](https://github-readme-streak-stats-six-hazel.vercel.app?user=ahmedbhd&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-ahmedbhds-projects.vercel.app?user=ahmedbhd&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
-  ![ahmedbhd's Stats](https://github-readme-stats-git-master-ahmedbhds-projects.vercel.app/api?username=ahmedbhd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+  ![ahmedbhd's Stats](https://github-readme-stats-g8k1sexzk-ahmedbhds-projects.vercel.app/api?username=ahmedbhd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&exclude_repo=github-readme-stats,github-readme-streak-stats)
 
-  ![ahmedbhd's Top Languages](https://github-readme-stats-git-master-ahmedbhds-projects.vercel.app/api/top-langs/?username=ahmedbhd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&count_private=true)
+  ![ahmedbhd's Top Languages](https://github-readme-stats-g8k1sexzk-ahmedbhds-projects.vercel.app/api/top-langs/?username=ahmedbhd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&count_private=true&exclude_repo=github-readme-stats,github-readme-streak-stats)
 
 </div>
 
