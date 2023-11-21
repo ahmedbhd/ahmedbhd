@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’ve just finished developing **<a href="https://play.google.com/store/apps/details?id=com.squarex&hl=en&gl=US">a rental app</a>**
+ 🔭 I’ve just finished developing **<a href="https://play.google.com/store/apps/details?id=com.squarex&hl=en&gl=US" target="_blank" rel="noopener noreferrer">a rental app</a>**
  
  🌱 I’m currently learning **SwiftUI and React Native**
 
