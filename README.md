@@ -19,14 +19,20 @@
 
  </div>
  
-<div align="center"> 
+<div align="center">
+
   <a href="mailto:ahmed.bnhenda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
   <a href="https://linkedin.com/in/ahmedbhd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"/>
   </a>
+
+  <a href="https://discord.com/users/203950609727094784" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer"/>
   </a>
+
 </div>
 
  <hr/>
@@ -38,6 +44,7 @@
 
 [![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)](#)
 
@@ -47,6 +54,7 @@
 [![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white)](#)
 [![Github](https://img.shields.io/badge/GitHub-100000?logo=github)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=Jira)](#)
+[![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 </div>
@@ -79,5 +87,11 @@
 <br/><br/>
 
 <hr/>
+
+<h1 align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe)]()
+
+</h1>
 
 <br/>
