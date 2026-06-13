@@ -5,13 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Ben+Henda!;" />
 </h1>
 
-<h3 align="center">A passionate Mobile developer from Tunisia 🇹🇳</h3>
+<h3 align="center">A passionate Mobile developer from Tunisia 🇹🇳 based in UAE 🇦🇪</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’ve just finished developing **<a href="https://play.google.com/store/apps/details?id=com.squarex&hl=en&gl=US" target="_blank" rel="noopener noreferrer">a rental app</a>**
+ 🔭 I’ve just finished developing
+ **<a href="https://play.google.com/store/apps/details?id=com.squarex&hl=en&gl=US" target="_blank" rel="noopener noreferrer">Rental App</a>**
+ **<a href="https://apps.apple.com/ae/app/battlequeens/id6769069998" target="_blank" rel="noopener noreferrer">Board Puzzle Game</a>**
  
  🌱 I’m currently learning **Claude Code**
 
