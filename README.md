@@ -12,7 +12,9 @@
 <div align="center">
  
  🔭 I’ve just finished developing
+ <br/>
  **<a href="https://play.google.com/store/apps/details?id=com.squarex&hl=en&gl=US" target="_blank" rel="noopener noreferrer">Rental App</a>**
+ <br/>
  **<a href="https://apps.apple.com/ae/app/battlequeens/id6769069998" target="_blank" rel="noopener noreferrer">Board Puzzle Game</a>**
  
  🌱 I’m currently learning **Claude Code**
